@@ -1,8 +1,8 @@
 name: fb_auth_login
-description: A new flutter plugin project.
-version: 0.0.1
-author:
-homepage:
+description: A new flutter plugin project for Facebook Authentication and login.
+version: 0.0.2
+author: Pradeep<pradeepnswamy@gmail.com>
+homepage: https://github.com/NousPradeepN/fb_auth_login.git
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
